@@ -4,7 +4,7 @@
   <img  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="nextJS13_Chakra"/>
   <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nextJS13_Chakra"/>
   <img src="https://img.shields.io/badge/Nextjs-v13.4.6-000.svg" alt="Nextjs_13"/>
-  <img src="https://img.shields.io/badge/Chakra ui-v2.7.1-000.svg" alt="Chakra"/>
+  <img src="https://img.shields.io/badge/Chakra ui-v2.7.1-000.svg" alt="Chakrajs"/>
 </div>
 
 <p>✅Create accessible Next js 13 apps with speed</p>
